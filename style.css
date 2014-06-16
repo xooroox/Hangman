@@ -1,0 +1,19 @@
+body{
+	background-color: #fff;
+}
+#wrapper{
+	margin: 0 auto;
+	width: 600px;
+}
+.headings, #main_table, #form{
+	padding-left: 60px;
+}
+#main_table td{
+	width: 20px; 
+	height: 35px;
+	background-color: #B3B3B3;
+	color: #0066CC;
+	border: 1px solid #000;
+	font-size: 25px;
+	font-family:Times New Roman;
+}
